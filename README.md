@@ -1,5 +1,5 @@
-1)
-# Built-in Functions -Binary Conversion Using Built-in Functions in Python
+
+#1 Built-in Functions -Binary Conversion Using Built-in Functions in Python
 
 ## 🎯 Aim
 To write a Python program to convert the number **16** into its **binary representation** using built-in Python functions.
@@ -21,8 +21,8 @@ print("Binary representation of", num, "is", binary)
 
 ## Result
 The program was excecuted successfully and the result was obtained
-2)
-# Functions in Python: Modulo Calculator
+
+#2 Functions in Python: Modulo Calculator
 
 ## 🎯 Aim
 To write a Python program that defines a function which accepts two values and returns their **modulo** using the `%` operator.
